@@ -5,7 +5,7 @@ I'm
 Full Stack Intern
 Google Cloud Digital Leader & Responsive Web Designer
 
-Cloud enthusiast and web designer. I'm Full Stack Intern at Edureka.Achieved certificates from Google Analytics, Data Studio, IBM Cloud Core, Blockchain Essentials, and Data Science Foundation Badges from Cognitive class
+Cloud enthusiast and web designer. I'm Full Stack Intern.Achieved certificates from Google Analytics, Data Studio, IBM Cloud Core, Blockchain Essentials, and Data Science Foundation Badges from Cognitive class
 
 
 
