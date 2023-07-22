@@ -1,7 +1,7 @@
 <h1 align="center">Hi, <img src='https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png' height="40px"/> I'm Manas</h1>
 <h3>I am Full Stack Web Developer at Innomatics Research Labs, I am responsible for creating and implementing user-facing elements using HTML, CSS, JavaScript and React.Js.</h3><h3> I have a strong understanding of web standards and am able to create responsive, cross-browser-compatible designs. I am experienced in using front-end frameworks such as React.Js & Bootstrap and also in backend technologies such as Express, Node.Js and MongoDB.</h3>
 
-- 🔭 I’m currently working on [Job Aspire - MERN Stack Job Portal Website](https://flourishing-bublanina-f566ea.netlify.app/)
+- 🔭 I’m currently working on [Job Aspire - MERN Stack Job Portal](https://flourishing-bublanina-f566ea.netlify.app/)
 
 - 🌱 I’m currently learning **React.Js, Node.Js, Express**
 
